@@ -16,3 +16,4 @@ As always, this is an administrative batch file from some random person on the I
 - Script can perform an initial install of the mod so long as Elden Ring is already installed.
 - Script preserves the currently installed `ersc_settings.ini` file for updating an outdated install.
 - Script cleans up temporary files and directories, but will not delete the original .zip file containing the mod.
+- Script differentiates between Elden Ring and Elden Ring Nightreign. This script is **not** compatible with the Seamless Co-op mod for Elden Ring Nightreign and simply ignores the similarly-named mod.

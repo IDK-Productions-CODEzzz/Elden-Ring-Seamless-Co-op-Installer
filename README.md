@@ -1,7 +1,7 @@
 # Elden-Ring-Seamless-Co-op-Installer
 A simple Windows batch script to make installing the [Seamless Co-op mod](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) (authored by [Luke Yui](https://github.com/LukeYui)) easier. Google Gemini assisted.
 
-As always, this is an administrative batch file from some random person on the Internet. Keep with best security practices and review the code. Don't get into the habit of blindly trusting random scripts from GitHub. If you are not tech savvy, utilize AI tools such as ChatGPT, Claude, Gemini, or others to review the code as well as [VirusTotal](https://www.virustotal.com/gui/home/upload).
+As always, this is an administrative batch file from some random person on the Internet. Keep with best security practices and review the code. Don't get into the habit of blindly trusting random scripts from GitHub. If you are not tech savvy, utilize AI tools such as [ChatGPT](https://chatgpt.com/), Claude, [Gemini](https://gemini.google.com/), or others to review the code as well as [VirusTotal](https://www.virustotal.com/gui/home/upload).
 
 [Current VirusTotal Rating](https://www.virustotal.com/gui/file/ac47d2da31d3f431e15453bf77e34a0baab82538fd07a26de821fb1eea825045/detection)
 

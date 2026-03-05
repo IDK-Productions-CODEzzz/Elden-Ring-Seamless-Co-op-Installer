@@ -14,5 +14,5 @@ As always, this is an administrative batch file from some random person on the I
 
 # Quirks
 - Script can perform an initial install of the mod so long as Elden Ring is already installed.
-- Script preserves the currently installed `ersc_settings.ini` file.
+- Script preserves the currently installed `ersc_settings.ini` file for updating an outdated install.
 - Script cleans up temporary files and directories, but will not delete the original .zip file containing the mod.
